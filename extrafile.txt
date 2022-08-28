@@ -1,0 +1,7 @@
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+
+#c22f60;
+rgb(184, 45, 184)
